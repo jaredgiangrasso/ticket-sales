@@ -1,0 +1,14 @@
+.order-confirmation-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.order-confirmation-message {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.order-confirmation-details {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
